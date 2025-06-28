@@ -6,9 +6,9 @@
   "success_url": "/",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "DARK-SILENCE-MD~LYVElBpZ#JEBtKarHTkZW1TJV9quqJNyjDHXGlRZN42KkPEXGNs0",
       "required": true,
-      "value": ""
+      "value": "DARK-SILENCE-MD~LYVElBpZ#JEBtKarHTkZW1TJV9quqJNyjDHXGlRZN42KkPEXGNs0"
     },  
     
     "ALIVE_IMG": {
@@ -158,7 +158,7 @@
     "OWNER_NUMBER": {
       "description": "replace it with your own number.",
       "required": false,
-      "value": "923096287432"
+      "value": "917545984465"
     }, 
 
     "OWNER_NAME": {
